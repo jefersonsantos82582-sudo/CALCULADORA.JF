@@ -1,5 +1,5 @@
 """
-ASGI config for Meu_site01 project.
+ASGI config for Meu_Sit project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
